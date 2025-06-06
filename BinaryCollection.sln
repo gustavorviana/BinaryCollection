@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryCollection", "BinaryC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{7DB3AB90-F63A-4427-BC15-6CB56239D0FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashGeneratorExample", "HashGeneratorExample\HashGeneratorExample.csproj", "{910C51B0-DE50-4639-B821-7F2D85ED6C7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7DB3AB90-F63A-4427-BC15-6CB56239D0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DB3AB90-F63A-4427-BC15-6CB56239D0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DB3AB90-F63A-4427-BC15-6CB56239D0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910C51B0-DE50-4639-B821-7F2D85ED6C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910C51B0-DE50-4639-B821-7F2D85ED6C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910C51B0-DE50-4639-B821-7F2D85ED6C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910C51B0-DE50-4639-B821-7F2D85ED6C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

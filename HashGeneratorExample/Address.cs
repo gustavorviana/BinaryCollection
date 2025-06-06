@@ -1,4 +1,4 @@
-﻿namespace Sample;
+﻿namespace HashGeneratorExample;
 
 public class Address
 {
